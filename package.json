@@ -1,0 +1,19 @@
+{
+  "name": "test-auto-release",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zero-plusplus/test-auto-release.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zero-plusplus/test-auto-release/issues"
+  },
+  "homepage": "https://github.com/zero-plusplus/test-auto-release#readme"
+}
